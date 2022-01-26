@@ -15,7 +15,7 @@ The project is about to promote myself into programmer industry. Website will be
  ### built-with
 - html5
 - CSS
-- https://www.flaticon.com/(image resource)
+- [Flaticon](https://www.flaticon.com/)
 
 
 # continued-development
