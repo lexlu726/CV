@@ -1,5 +1,5 @@
 # overview
-The project is about to promote myself into programmer industry. Website will be update time to time. 
+The project is about promoting myself in the programmer industry. The website will be updated from time to time. 
 
 # Link
 
@@ -7,7 +7,7 @@ The project is about to promote myself into programmer industry. Website will be
 
 
 # My Process
-- The website in early contruct. Color and layout still 
+- The website is in early construction. Color and layout still 
 
 
 
@@ -19,10 +19,8 @@ The project is about to promote myself into programmer industry. Website will be
 
 
 # continued-development
-The Website will be pefected time to time. more feature which it need will be add.
+The Website will be perfected from time to time. more features which it needs will be added.
 
 
 # useful-resources
 - [Flaticon](https://www.example.com) - This helped me for image adding. I really liked this website and will use it going forward.
-
-
