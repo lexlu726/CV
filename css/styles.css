@@ -161,3 +161,51 @@ hr {
   padding-top: 70px;
   position: relative;
 }
+
+/* mobile  */
+@media screen and (max-width: 990px) {
+
+  /* top-container */
+  h1 {
+    font-size: 10rem;
+  }
+
+  h2 {
+    font-size: 4rem;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 1rem;
+    width: 30%;
+    bottom: 460px;
+
+  }
+
+  .top-mountain{
+    position:absolute;
+    width: 100%;
+    padding-bottom: 0;
+    left: 0;
+    bottom: 0;
+
+  }
+
+  .top-container {
+
+    padding-top: 150px;
+    height: 1000px;
+
+  }
+
+  .top-cloud {
+    position: absolute;
+    right: 1rem;
+    top:1rem;
+    width: 30%;
+  }
+
+  .personal-photo {
+    width: 50%;
+  }
+}
