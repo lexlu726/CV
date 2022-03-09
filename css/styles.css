@@ -178,7 +178,7 @@ hr {
     position: absolute;
     left: 1rem;
     width: 20%;
-    bottom: 41rem;
+    bottom: 46rem;
 
   }
 
@@ -190,12 +190,13 @@ hr {
 
   .t-h2{
     font-size: 2rem;
+    padding-bottom: 100px;
   }
 
   .top-container {
 
     padding-top: 150px;
-    height:75rem;
+    height:80rem;
 
   }
 
