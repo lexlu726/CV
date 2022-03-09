@@ -167,34 +167,35 @@ hr {
 
   /* top-container */
   h1 {
-    font-size: 10rem;
+    font-size: 12rem;
   }
 
   h2 {
-    font-size: 4rem;
+
   }
 
   .bottom-cloud {
     position: absolute;
     left: 1rem;
-    width: 30%;
-    bottom: 460px;
+    width: 20%;
+    bottom: 41rem;
 
   }
 
   .top-mountain{
-    position:absolute;
     width: 100%;
     padding-bottom: 0;
-    left: 0;
-    bottom: 0;
 
+  }
+
+  .t-h2{
+    font-size: 2rem;
   }
 
   .top-container {
 
     padding-top: 150px;
-    height: 1000px;
+    height:75rem;
 
   }
 
@@ -202,7 +203,7 @@ hr {
     position: absolute;
     right: 1rem;
     top:1rem;
-    width: 30%;
+    width: 20%;
   }
 
   .personal-photo {
