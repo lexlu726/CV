@@ -230,19 +230,41 @@ p{
 
 
 
+
   .m-container{
     padding:15% 2%
   }
 
+
+  /* navbar */
+
+
+
   /* title */
-  .c-name{
-    margin: 0 auto;
-  }
+
+
 
   .bottom-c{
     left:2%;
-    top: 50%;
+    top: 40%;
   }
+
+  .c-name{
+
+    margin: 0 auto;
+  }
+
+
+  .features-title{
+    font-size:3rem;
+  }
+
+  .t-h2{
+    margin-bottom: 40%;
+  }
+
+
+
 
   .top-c{
     right:2%;
@@ -257,13 +279,6 @@ p{
   .personal-photo{
     width: 70%;
   }
-
-  .features-title{
-    font-size:3rem;
-  }
-
-
-
 
 
 }
