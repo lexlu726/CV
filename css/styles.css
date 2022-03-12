@@ -43,7 +43,6 @@ p{
 
 .container-fluid{
   background-color: #EAF6F6;
-  text-align: center;
   padding: 0 15%;
   position: relative;
 }
@@ -53,7 +52,6 @@ p{
 .description{
   font-size: 1.5rem;
   margin:2% auto;
-  line-height: 1.5;
 }
 
 .features-title{
@@ -77,22 +75,28 @@ p{
 .navbar-brand{
   font-family: 'Sacramento', cursive;
   font-weight:bold;
+  color:#66BFBF;
 
 }
 
 .nav-item{
   padding: 0 16px;
+
 }
+
+
 
 .nav-link{
   font-family: 'Source Serif 4', sans-serif;
   font-weight: bold;
+  color: #66BFBF;
 
 }
 .navbar{
   padding:0;
 
 }
+
 
 /* title */
 .c-name{
@@ -218,4 +222,48 @@ p{
 
 .footer-link{
   color:#11999E;
+}
+
+/* mobile  */
+
+@media (max-width:990px) {
+
+
+
+  .m-container{
+    padding:15% 2%
+  }
+
+  /* title */
+  .c-name{
+    margin: 0 auto;
+  }
+
+  .bottom-c{
+    left:2%;
+    top: 50%;
+  }
+
+  .top-c{
+    right:2%;
+    top: 0;
+  }
+
+  .top-mountain{
+    width: 100%
+  }
+
+  /* profile */
+  .personal-photo{
+    width: 70%;
+  }
+
+  .features-title{
+    font-size:3rem;
+  }
+
+
+
+
+
 }
