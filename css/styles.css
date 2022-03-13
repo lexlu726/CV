@@ -260,8 +260,8 @@ p{
   /* navbar */
 
   .nav-icon{
-    width:3rem;
-    height: 3rem;
+    width:5rem;
+    height: 5rem;
   }
 
 
@@ -273,7 +273,7 @@ p{
   .bottom-c{
     left:2%;
     top: 50%;
-    width: 30%;
+    width: 20%;
   }
 
   .c-name{
@@ -297,7 +297,7 @@ p{
   .top-c{
     right:2%;
     top: 0;
-    width:30%
+    width:20%
   }
 
   .top-mountain{
