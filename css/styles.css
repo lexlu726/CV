@@ -1,4 +1,3 @@
-
 a{
   text-decoration: none;
   margin: 10px 20px;
@@ -230,6 +229,12 @@ p{
 
 
 
+  .description{
+    font-size: 3rem;
+  }
+
+
+
 
   .m-container{
     padding:15% 2%
@@ -266,7 +271,7 @@ p{
 
 
   .features-title{
-    font-size:5rem;
+    font-size: 7rem;
   }
 
   .t-h2{
@@ -289,7 +294,7 @@ p{
 
   /* profile */
   .personal-photo{
-    width: 70%;
+    width: 40%;
   }
 
   /* my-features */
