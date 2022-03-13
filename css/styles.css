@@ -26,7 +26,7 @@ h2{
   color: #66BFBF;
 }
 
-h3{
+h3,h4{
   font-family: 'Source Serif 4', sans-serif;
   color:#11999E;
   font-weight: bold;
@@ -34,10 +34,15 @@ h3{
 
 
 
+
+
 p{
   font-family:'Source Serif 4', sans-serif;
   line-height: 2;
 }
+
+
+
 
 
 .container-fluid{
@@ -49,12 +54,19 @@ p{
 
 
 .description{
-  font-size: 1.5rem;
-  margin:2% auto;
+  font-size: 1rem;
+  margin:5% auto;
 }
 
-.features-title{
-  font-size: 2.5rem;
+
+
+.third-title{
+  font-size: 2rem;
+}
+
+
+.sub-title{
+  font-size: 5rem;
 }
 
 .hr-style{
@@ -105,17 +117,12 @@ p{
 }
 
 
-.t-h2{
-  font-size: 1.5rem;
-  margin-bottom: 1%;
 
-}
 
 .top-c{
 
   position: absolute;
   right:20%;
-  top: 30px;
 }
 
 .top-mountain{
@@ -127,7 +134,7 @@ p{
 
   position: absolute;
   left:20%;
-  top:40%;
+  top:50%;
 
 }
 
@@ -154,8 +161,11 @@ p{
 .features-spacing{
   margin: 0 auto 100px;
 }
-.features-alingn{
-    margin:50px auto 50px;
+
+.features-align{
+  margin: 50px auto;
+  text-align: center;
+  width: 50%
 }
 
 
@@ -179,14 +189,6 @@ p{
   margin:30px auto;
 }
 
-.contact-h2{
-  font-size: 3rem;
-}
-
-.contact-h3{
-  margin: 10px auto;
-  font-size: 1.3rem;
-}
 
 .contact-b{
   text-align: center;
@@ -230,7 +232,7 @@ p{
 
 
   .description{
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
 
@@ -269,15 +271,6 @@ p{
     width:50%;
   }
 
-
-  .features-title{
-    font-size: 7rem;
-  }
-
-  .t-h2{
-    margin-bottom: 40%;
-    font-size: 3rem;
-  }
 
 
 
