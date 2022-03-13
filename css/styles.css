@@ -223,6 +223,7 @@ p{
 
 .footer-link{
   color:#11999E;
+  margin:0 30px
 }
 
 /* mobile  */
@@ -234,6 +235,19 @@ p{
   .description{
     font-size: 2rem;
   }
+
+
+
+  .third-title{
+    font-size: 5rem;
+  }
+
+  .sub-title{
+    font-size: 7rem;
+
+  }
+
+
 
 
 
