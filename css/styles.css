@@ -323,6 +323,10 @@ p{
     padding:0;
   }
 
+  .copy-right{
+    font-size: 1.3rem;
+  }
+
 
   .btn{
     padding:40px 70px;
