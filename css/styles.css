@@ -253,7 +253,7 @@ p{
 
 
   .m-container{
-    padding:15% 2%
+    padding:15% 7%
   }
 
 
@@ -300,6 +300,11 @@ p{
   }
 
   /* profile */
+  .feature-box{
+    padding:7% 0;
+
+  }
+
   .personal-photo{
     width: 40%;
   }
