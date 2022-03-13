@@ -95,12 +95,9 @@ p{
 
 }
 
-
-
 .nav-link{
-  font-family: 'Source Serif 4', sans-serif;
   font-weight: bold;
-  color: #66BFBF;
+
 
 }
 .navbar{
@@ -185,8 +182,7 @@ p{
 
 
 .c-p{
-  width: 60%;
-  margin:30px auto;
+  padding: 0 20%;
 }
 
 
@@ -264,6 +260,10 @@ p{
     height: 5rem;
   }
 
+  .nav-fontsize{
+    font-size: 2rem;
+  }
+
 
 
   /* title */
@@ -318,6 +318,12 @@ p{
 
 
   /* contact-info */
+
+  .c-p{
+    padding:0;
+  }
+
+
   .btn{
     padding:40px 70px;
   }
