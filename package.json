@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "jquery": "^3.6.0",
+    "request": "^2.88.2"
+  }
+}
