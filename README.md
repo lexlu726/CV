@@ -13,9 +13,10 @@ The project is about promoting myself in the programmer industry. The website wi
 
 
  ### built-with
-- html5
+- HTML 5
 - CSS
 - [Flaticon](https://www.flaticon.com/)
+- Node.js
 
 
 # continued-development
