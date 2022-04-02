@@ -3,7 +3,7 @@ The project is about promoting myself in the programmer industry. The website wi
 
 # Link
 
-- [Website URL](https://lexlu726.github.io/CV/)
+- [Website URL](https://apple-tart-26911.herokuapp.com/)
 
 
 # My Process
